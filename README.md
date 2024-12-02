@@ -1,0 +1,1 @@
+- add cli for local server
